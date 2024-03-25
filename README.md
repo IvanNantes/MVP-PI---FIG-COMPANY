@@ -4,6 +4,14 @@
 
 <h1>Sobre o jogo</h1>
 <p>Este jogo é uma experiência onde você assume o papel de um pequeno ninja que embarca numa jornada com objetivo de subindo a torre, derrotando os inimigos e desviando de espinhos.</p>
+<br>
+<p>Os controles do jogo são:</p>
+<ol>
+  <li>Andar para frente e para trás - (A) (D)</li>
+  <li>Pular / Segundo pulo          - (Espaço)</li>
+  <li>Atacar                        - (J)</li>
+  <li>Rolar / Impulso               - (Shift)</li>
+</ol>
 
 <h1>Requisitos</h1>
 <h3>Para jogar você precisará de:</h3>
@@ -15,9 +23,9 @@
 <p>
   1. Baixe o arquivo zip do jogo.
 
-  2. Extraia os arquivos e abra as pastas.
+  2. Extraia os arquivos e abra a pasta.
 
-  3. Dê um duplo clique no arquivo executável "Jogo_PI_MVP.exe" para iniciá-lo.
+  3. Dê um duplo clique no arquivo executável "PI_MVP.exe" para iniciá-lo.
 
   4. Antes de prosseguir, o seu sistema pode exibir um aviso perguntando se você confia no arquivo. Por favor, revise a origem do arquivo e se estiver seguro, prossiga com a execução.
 </p>
