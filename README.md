@@ -3,7 +3,7 @@
 <p>Bem-vindo ao jogo interativo que estamos desenvolvendo! Este é um projeto empolgante em que você poderá experimentar uma aventura única e emocionante. Antes de executar o jogo, por favor, leia atentamente as instruções abaixo.</p>
 
 <h1>Sobre o jogo</h1>
-<p>Este jogo é uma experiência onde você assume o papel de um pequeno ninja que embarca numa jornada com objetivo de subindo a torre, derrotando os inimigos e desviando de espinhos</p>
+<p>Este jogo é uma experiência onde você assume o papel de um pequeno ninja que embarca numa jornada com objetivo de subindo a torre, derrotando os inimigos e desviando de espinhos.</p>
 
 <h1>Requisitos</h1>
 <h3>Para jogar você precisará de:</h3>
@@ -15,7 +15,7 @@
 <p>
   1. Baixe o arquivo zip do jogo.
 
-  2. extraia os arquivos e abra as pastas.
+  2. Extraia os arquivos e abra as pastas.
 
   3. Dê um duplo clique no arquivo executável "Jogo_PI_MVP.exe" para iniciá-lo.
 
