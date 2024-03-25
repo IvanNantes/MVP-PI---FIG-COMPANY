@@ -30,6 +30,6 @@
   <li>Antes de prosseguir, o seu sistema pode exibir um aviso perguntando se você confia no arquivo. Por favor, revise a origem do arquivo e se estiver seguro, prossiga com a execução.</li>
 </ol>
 <h3>Nota: <p>Este arquivo README é apenas uma descrição básica do jogo e das instruções para executá-lo.</p></h3>
-<p>Nosos blog:</p>
+<p>Nosso blog:</p>
 https://figcompany.blogspot.com/
 
