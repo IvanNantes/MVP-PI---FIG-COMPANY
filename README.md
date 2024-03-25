@@ -7,10 +7,10 @@
 <br>
 <p>Os controles do jogo são:</p>
 <ol>
-  <li>Andar para frente e para trás - (A) (D)</li>
-  <li>Pular / Segundo pulo          - (Espaço)</li>
-  <li>Atacar                        - (J)</li>
-  <li>Rolar / Impulso               - (Shift)</li>
+  <li>Andar para frente e para trás - ( A ) ( D )</li>
+  <li>Pular / Segundo pulo          - ( Espaço )</li>
+  <li>Atacar                        - ( J )</li>
+  <li>Rolar / Impulso               - ( Shift )</li>
 </ol>
 
 <h1>Requisitos</h1>
